@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\contracts",
+    "\\contracts",
+    "\\migrations",
+    "\\src",
+    "\\src\\js"
+  ],
+  "SelectedNode": "\\truffle-config.js",
+  "PreviewInSolutionExplorer": false
+}
